@@ -1,31 +1,21 @@
-# Cluster Analysis of Baltimore City Sala
+# Cluster Analysis of Baltimore City Salaries Based on Annual Salary, Gross Salary, and Years Worked
 
 [phrase](link) 
 
 ## Background 
-In 2019, a study was by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
+In 2019, a study was conducted by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
 
 ## Business Question 
 
 How are different job titles grouped based on annual salary, gross salary, and years worked? 
 
-## Excel Data Analysis 
-
-
-
-
-
-## Excel Data Visualization 
-
+## Data Analysis
 ![name of file](link) 
+Three Clusters
+why are there three distinct clusters
+what are they? 
 
-
-
-
-
-
-## Data Interpretation 
-
+paramedic jobs are in the first cluster, defined by .. higher than average year
 
 
 
