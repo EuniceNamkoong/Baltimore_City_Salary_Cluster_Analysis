@@ -13,7 +13,7 @@ The data has been filtered to only include the fiscal year 2020. The years worke
 
 ## Data Analysis and Findings 
 
-!cluster_table](https://github.com/EuniceNamkoong/Baltimore_City_Salary_Cluster_Analysis/blob/main/Cluster_Anchor_Table.PNG)
+![cluster_table](https://github.com/EuniceNamkoong/Baltimore_City_Salary_Cluster_Analysis/blob/main/Cluster_Anchor_Table.PNG)
 
 The data set was divided into three distinct clusters as shown in the table above. 
 
