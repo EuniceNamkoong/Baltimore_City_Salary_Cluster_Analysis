@@ -3,7 +3,7 @@
 [phrase](link) 
 
 ## Background 
-In 2019, a study was conducted by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking at a macroscale of employement in Baltimore using public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
+In 2019, a study was conducted by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking at a macroscale of employment in Baltimore using public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
 
 ## Business Question 
 
