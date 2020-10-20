@@ -3,13 +3,13 @@
 [phrase](link) 
 
 ## Background 
-In 2019, a study was conducted by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
+In 2019, a study was conducted by JHU that reviewed [Baltimore police officer pay](https://www.wbaltv.com/article/johns-hopkins-university-21st-century-cities-initiative-study-baltimore-police-officer-pay/29776272#). This research further outlined various public sector pay and employment in Baltimore City which led to insight on staffing, overtime, pay gaps, and more. In this data analysis, we will be looking at a macroscale of employeement in Baltimore using public data of [Baltimore City Salaries](https://data.baltimorecity.gov/browse?category=City+Government) to determine how different job titles are group based on annual salary, gross salary, and years worked. 
 
 ## Business Question 
 
 How are different job titles grouped based on annual salary, gross salary, and years worked? 
 
-The data has been filtered to only include the fiscal year 2020. The years worked was calculated from the date of hiring to the end of the 2020 fiscal year (6/30/2020). 
+The data has been filtered to only include the fiscal year 2020. The years worked was calculated from the date of hiring to the end of the 2020 fiscal year (6/30/2020). A cluster analysis was then conducted to further analyze the data. 
 
 ## Data Analysis and Findings 
 
@@ -17,7 +17,7 @@ The data has been filtered to only include the fiscal year 2020. The years worke
 
 The data set was divided into three distinct clusters as shown in the table above. 
 
-Data points within the cluster 1 have characteristics that reflect that of Paramedic CRT job. The years worked, annual salary, and gross pay are higher than the average. 
+Data points within the cluster 1 have characteristics that reflect the anchor point Paramedic CRT job. The years worked, annual salary, and gross pay are higher than the average. 
 
 Data points within the cluster 2 have characteristics that reflect that of Community Aide job. The years worked are slightly less than average while annual salary below average and gross pay is greatly below average. 
 
@@ -29,10 +29,10 @@ Data points within the cluster 3 have characteristics that reflect EMT Firefight
 As shown in the graph, there are 4095 job titles within the entire public record data set that identify most similiar to cluster 1, 7535 for cluster 2, and 5586 for cluster 3. 
 
 ### How can this information be used in practice? 
-This information can be best used in practice when creating social and economic policies as well as any efforts that target specific hiring practices. Gross pay can indicate the potential for economic growth. If we wanted to target a specific community, we can look at the jobs in that are and see which cluster they fall under to better target policies for them. 
+This information can be best used in practice when looking to gain insight on salaries for jobs in Baltimore City. If we wanted to target a group of similiar jobs within a sector, we can look at the which cluster they fall under to better target any types of policy efforts. 
 
 ### What additional data might be useful for further analysis? 
-Additional data such as hours that are worked per week could help differentiate is between higher pay due to overtime, minimum wages, or salaries in general. 
+Additional data such as hours that are worked per week could help differentiate is between higher pay due to overtime, minimum wages, or position within the job. 
 
 
 # Step by Step 
