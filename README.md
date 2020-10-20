@@ -29,7 +29,7 @@ Data points within the cluster 3 have characteristics that reflect EMT Firefight
 As shown in the graph, there are 4095 job titles within the entire public record data set that identify most similiar to cluster 1, 7535 for cluster 2, and 5586 for cluster 3.
 
 ## Summary
-This information can be best used in practice when looking to gain insight on salaries for various jobs in Baltimore City. Using the cluster analysis, information such as disparities between pay, how far metrics within each cluster are away from each, etc. within job sectors can be analyzed. If there are any economic or social policies that target a group of similiar jobs within a sector, we can look at the which cluster they fall under to better target any efforts. Additional data such as hours that are worked per week by each job could help differentiate between higher pay due to overtime, minimum wages, or position within the job. 
+This information can be best used in practice when looking to gain insight on salaries for various jobs in Baltimore City. Using the cluster analysis, information such as disparities between pay, how far metrics within each cluster are away from each, etc. within job sectors can be analyzed. If there are economic or social policies that are looking to target socioeconomic disparities by looking at income and standard of living, it would be helpful to look at jobs that fall into clusters with variables that fall below average to better target advocacy efforts. Additional data such as hours that are worked per week by each job could help differentiate between discrepancies due to overtime, minimum wages, or position within the job. 
 
 
 ## Step by Step 
